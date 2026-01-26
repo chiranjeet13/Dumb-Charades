@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Dumb-Charades/static/css/main.e6c13ad2.css",
-    "main.js": "/Dumb-Charades/static/js/main.0c25724d.js",
+    "main.js": "/Dumb-Charades/static/js/main.106fe70b.js",
     "static/js/453.fd2f0c4a.chunk.js": "/Dumb-Charades/static/js/453.fd2f0c4a.chunk.js",
     "index.html": "/Dumb-Charades/index.html",
     "main.e6c13ad2.css.map": "/Dumb-Charades/static/css/main.e6c13ad2.css.map",
-    "main.0c25724d.js.map": "/Dumb-Charades/static/js/main.0c25724d.js.map",
+    "main.106fe70b.js.map": "/Dumb-Charades/static/js/main.106fe70b.js.map",
     "453.fd2f0c4a.chunk.js.map": "/Dumb-Charades/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0c25724d.js"
+    "static/js/main.106fe70b.js"
   ]
 }
